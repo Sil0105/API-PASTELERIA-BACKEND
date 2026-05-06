@@ -55,19 +55,20 @@ Un usuario puede crear muchos productos
 🔹 PUT /products/:id → Actualizar ✨
 🔹 DELETE /products/:id → Eliminar 🗑️
 
-## 📸 Pruebas en Postman 
-##Las siguientes imágenes muestran pruebas realizadas en Postman para verificar el funcionamiento de la API.
+## 📸 Pruebas en Postman
 
-Ejemplo de creación de usuario:
+Las siguientes imágenes muestran pruebas realizadas en Postman para verificar el funcionamiento de la API.
+
+### Ejemplo de creación de usuario
 
 ![Crear usuario](./img/image-1.png)
 
-----
+---
 
-Ejemplo de creación de producto:
+### Ejemplo de creación de producto
 
 ![Crear producto](./img/image.png)
 
 ---
 
-¡Gracias por visitar mi API de pasteleria! 🍓🧁✨
+¡Gracias por visitar mi API de pastelería! 🍓🧁✨
