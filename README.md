@@ -69,6 +69,10 @@ Las siguientes imágenes muestran pruebas realizadas en Postman para verificar e
 
 ![Crear producto](./img/image.png)
 
+## Base de datos
+
+Las tablas se encuentran en `/database/schema.sql`
+
 ---
 
 ¡Gracias por visitar mi API de pastelería! 🍓🧁✨
